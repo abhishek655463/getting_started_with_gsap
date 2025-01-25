@@ -6,7 +6,7 @@ GSAP is **(Green Sock Animation Platfom)** it is java script library for animati
 
 * gsap use for movement animation moving or transaction.
 ---
-# Adding gsap animation
+## Adding gsap animation
 to add gsap animation we use *gsap CDN* --> cdnjs website --> copy "gsap.min.js" copy and paste in your code.
 
 
